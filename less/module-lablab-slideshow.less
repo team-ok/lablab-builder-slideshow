@@ -1,0 +1,73 @@
+.lablab-slideshow {
+
+	.lablab-slider-wrapper {
+		&.uk-container {
+			padding: 0;
+		}
+	}
+
+	ul.uk-slideshow {
+		> li {
+			margin: 0;
+			padding: 0;
+
+			&.no-kenburns {
+				> .uk-cover-background {
+					animation: none;
+				}
+			}
+		}
+	}
+	.uk-overlay-panel {
+		padding: 25px;
+		> div > span {
+			.uk-h2;
+			font-weight: 700;
+			@media (max-width: @breakpoint-small-max) {
+				font-size: 24px !important;
+				line-height: 30px !important;
+			}
+		}
+	}
+	.uk-overlay-center {
+		.uk-flex;
+		.uk-flex-center;
+		.uk-flex-middle;
+		text-align: center;
+		> div {
+			max-width: 75%;
+		}
+	}
+	.uk-overlay-right {
+		.uk-text-right;
+	}
+	.uk-overlay-left, .uk-overlay-right {
+		box-sizing: border-box;
+		max-width: 33.333%;
+		@media(max-width: @breakpoint-medium-max){
+			max-width: 50%;
+		}
+		@media (max-width: @breakpoint-small-max) {
+			max-width: none;
+			.uk-overlay-center;
+			text-align: center !important;
+			right: 0;
+			left: 0;
+			p {
+				.uk-hidden;
+			}
+		}
+	}
+
+	&.uk-slidenav-position {
+		.uk-slidenav-previous {
+			left: 0;
+		}
+		.uk-slidenav-next {
+			right: 0;
+		}
+	}
+	.lablab-slideshow-excerpt-readmore > a {
+    	color: #fff;
+	}
+}

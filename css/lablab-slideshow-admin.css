@@ -1,0 +1,10 @@
+.lablab-slide-label-title {
+	text-transform: uppercase;
+}
+.lablab-slide-label-type {
+	font-weight: normal;
+	font-style: italic;
+}
+.lablab-slides .acf-fields > .acf-field-message {
+	background-color: #f9f9f9;
+}

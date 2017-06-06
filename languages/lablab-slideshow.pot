@@ -1,0 +1,277 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-06-06 10:07+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: lablab_builder_slideshow_module.php:75
+msgid "Type:&nbsp;"
+msgstr ""
+
+#: lablab_builder_slideshow_module.php:76
+msgid "Untitled"
+msgstr ""
+
+#: lablab_builder_slideshow_module.php:77 fields/lablab-slideshow-fields.php:81
+msgid "From a post"
+msgstr ""
+
+#: lablab_builder_slideshow_module.php:78
+#: fields/lablab-slideshow-fields.php:144
+msgid "Background Color"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:16
+msgid "Slides"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:32
+msgid "Create Slides"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:47
+msgid "Add Slide"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:68
+msgid "Content Source"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:71
+msgid ""
+"When 'From a post' is selected, the title, the post image and the excerpt of "
+"a selected post (if available) are fetched automatically."
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:80
+msgid "Manually"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:92
+msgid "Select Post"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:124
+msgid "Slide-Type"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:145
+#: fields/lablab-slideshow-fields.php:158
+msgid "Image"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:146
+#: fields/lablab-slideshow-fields.php:197
+msgid "Video"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:147
+#: fields/lablab-slideshow-fields.php:229
+msgid "Iframe"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:232
+msgid "Insert Iframe-Code (e.g. from YouTube) here"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:261
+msgid "Choose Color"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:289
+msgid "Overlay-Title"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:308
+msgid "Overlay-Text"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:327
+msgid "Overlay-Text-Position"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:339
+msgid "Center"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:340
+msgid "Top"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:341
+msgid "Right"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:342
+msgid "Bottom"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:343
+msgid "Left"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:354
+msgid "Overlay-Text-Background"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:357
+msgid "Show text on a contrasting background?"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:373
+msgid "Link"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:393
+msgid "No link"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:394
+msgid "Internal"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:395
+msgid "External"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:406
+msgid "Internal Link"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:442
+msgid "External Link"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:473
+msgid "Settings"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:489
+msgid "Slideshow-Width"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:492
+msgid "Full width or value in pixels"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:501
+msgid "Full Width"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:512
+msgid "Center Slideshow?"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:515
+msgid "Should the slideshow be centered horizontally?"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:532
+msgid "Yes"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:533
+msgid "No"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:544
+msgid "Slideshow-Height"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:547
+msgid "Value in pixels"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:565
+msgid "Autoplay"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:568
+msgid "Autoplay slideshow?"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:584
+msgid "Autoslide-Interval"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:587
+msgid "Length of the interval between two slides (in seconds)"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:613
+msgid "Animation-Type"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:625
+msgid "Fade"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:626
+msgid "Scroll"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:627
+msgid "Scale"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:628
+msgid "Swipe"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:639
+msgid "Animation-Duration"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:642
+msgid "Value in milliseconds"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:660
+msgid "Ken Burns-Effect"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:663
+msgid "Activate Ken Burns-Effect (Pan & Zoom)?"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:679
+msgid "Ken Burns-Effect Duration"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:682
+msgid "Value in seconds"
+msgstr ""
+
+#: template/lablab-slideshow.php:85
+msgid "Read More"
+msgstr ""
+
+#. Name of the plugin
+msgid "Lablab Builder Slideshow Module"
+msgstr ""
+
+#. Description of the plugin
+msgid "Adds a slideshow module to lablab builder."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/team-ok/lablab-builder"
+msgstr ""
+
+#. Author of the plugin
+msgid "Timo Klemm"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/team-ok"
+msgstr ""
