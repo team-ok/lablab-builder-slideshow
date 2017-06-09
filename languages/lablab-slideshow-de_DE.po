@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Lablab Builder Slideshow Module\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-06-06 10:07+0000\n"
-"PO-Revision-Date: 2017-06-06 10:08+0000\n"
+"POT-Creation-Date: 2017-06-08 12:43+0000\n"
+"PO-Revision-Date: 2017-06-08 12:43+0000\n"
 "Last-Translator: Timo Klemm <klemm@phil.hhu.de>\n"
 "Language-Team: German\n"
 "Language: de-DE\n"
@@ -13,26 +13,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Loco - https://localise.biz/"
 
-#. Description of the plugin
-msgid "Adds a slideshow module to lablab builder."
-msgstr "Ein Slideshow-Modul für den Lablab Builder."
-
-#: lablab_builder_slideshow_module.php:75
-msgid "Type:&nbsp;"
-msgstr "Typ:&nbsp;"
-
-#: lablab_builder_slideshow_module.php:76
-msgid "Untitled"
-msgstr "Ohne Titel"
-
-#: lablab_builder_slideshow_module.php:77 fields/lablab-slideshow-fields.php:81
-msgid "From a post"
-msgstr "Von einem Beitrag"
-
-#: lablab_builder_slideshow_module.php:78
-#: fields/lablab-slideshow-fields.php:144
-msgid "Background Color"
-msgstr "Hintergrundfarbe"
+#: includes/class-lablab-builder-slideshow-module.php:10
+msgid "Slideshow"
+msgstr "Slideshow"
 
 #: fields/lablab-slideshow-fields.php:16
 msgid "Slides"
@@ -62,6 +45,11 @@ msgstr ""
 msgid "Manually"
 msgstr "Manuell"
 
+#: fields/lablab-slideshow-fields.php:81
+#: includes/class-lablab-builder-slideshow-module.php:65
+msgid "From a post"
+msgstr "Von einem Beitrag"
+
 #: fields/lablab-slideshow-fields.php:92
 msgid "Select Post"
 msgstr "Beitrag auswählen"
@@ -69,6 +57,11 @@ msgstr "Beitrag auswählen"
 #: fields/lablab-slideshow-fields.php:124
 msgid "Slide-Type"
 msgstr "Slide-Typ"
+
+#: fields/lablab-slideshow-fields.php:144
+#: includes/class-lablab-builder-slideshow-module.php:66
+msgid "Background Color"
+msgstr "Hintergrundfarbe"
 
 #: fields/lablab-slideshow-fields.php:145
 #: fields/lablab-slideshow-fields.php:158
@@ -261,9 +254,21 @@ msgstr "Wert in Sekunden"
 msgid "Read More"
 msgstr "Weiterlesen"
 
+#: includes/class-lablab-builder-slideshow-module.php:63
+msgid "Type:&nbsp;"
+msgstr "Typ:&nbsp;"
+
+#: includes/class-lablab-builder-slideshow-module.php:64
+msgid "Untitled"
+msgstr "Ohne Titel"
+
 #. Name of the plugin
 msgid "Lablab Builder Slideshow Module"
 msgstr "Lablab Builder Slideshow Modul"
+
+#. Description of the plugin
+msgid "Adds a slideshow module to lablab builder."
+msgstr "Ein Slideshow-Modul für den Lablab Builder."
 
 #. URI of the plugin
 msgid "https://github.com/team-ok/lablab-builder"

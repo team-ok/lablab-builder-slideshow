@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-06-06 10:07+0000\n"
+"POT-Creation-Date: 2017-06-08 12:42+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: \n"
@@ -13,23 +13,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Loco - https://localise.biz/"
-
-#: lablab_builder_slideshow_module.php:75
-msgid "Type:&nbsp;"
-msgstr ""
-
-#: lablab_builder_slideshow_module.php:76
-msgid "Untitled"
-msgstr ""
-
-#: lablab_builder_slideshow_module.php:77 fields/lablab-slideshow-fields.php:81
-msgid "From a post"
-msgstr ""
-
-#: lablab_builder_slideshow_module.php:78
-#: fields/lablab-slideshow-fields.php:144
-msgid "Background Color"
-msgstr ""
 
 #: fields/lablab-slideshow-fields.php:16
 msgid "Slides"
@@ -57,12 +40,22 @@ msgstr ""
 msgid "Manually"
 msgstr ""
 
+#: fields/lablab-slideshow-fields.php:81
+#: includes/class-lablab-builder-slideshow-module.php:65
+msgid "From a post"
+msgstr ""
+
 #: fields/lablab-slideshow-fields.php:92
 msgid "Select Post"
 msgstr ""
 
 #: fields/lablab-slideshow-fields.php:124
 msgid "Slide-Type"
+msgstr ""
+
+#: fields/lablab-slideshow-fields.php:144
+#: includes/class-lablab-builder-slideshow-module.php:66
+msgid "Background Color"
 msgstr ""
 
 #: fields/lablab-slideshow-fields.php:145
@@ -254,6 +247,18 @@ msgstr ""
 
 #: template/lablab-slideshow.php:85
 msgid "Read More"
+msgstr ""
+
+#: includes/class-lablab-builder-slideshow-module.php:10
+msgid "Slideshow"
+msgstr ""
+
+#: includes/class-lablab-builder-slideshow-module.php:63
+msgid "Type:&nbsp;"
+msgstr ""
+
+#: includes/class-lablab-builder-slideshow-module.php:64
+msgid "Untitled"
 msgstr ""
 
 #. Name of the plugin

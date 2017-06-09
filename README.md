@@ -1,2 +1,2 @@
-# lablab-builder-slideshow
+# Lablab Builder Slideshow
 Adds a slideshow module to lablab builder.
